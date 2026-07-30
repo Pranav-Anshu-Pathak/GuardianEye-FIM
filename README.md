@@ -202,10 +202,4 @@ MIT License — see [LICENSE](LICENSE)
 
 ---
 
-## 🙏 Inspiration
-
-Concept inspired by [joshmadakor1/PowerShell-Integrity-FIM](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) — ported and significantly extended to Python with GUI, JSON baseline, rename detection, live demo scripts, and presentation generator.
-
----
-
 <p align="center">Made with Python 🐍 | No dependencies | Standard library only</p>
