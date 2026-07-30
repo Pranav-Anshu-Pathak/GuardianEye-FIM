@@ -1,0 +1,44 @@
+# ── Python cache ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# ── Virtual environments ──────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── GuardianEye runtime files (generated at runtime) ─────
+trust_store.json
+guardian_events.log
+fim_alerts.log
+fim_live.log
+fim_baseline.json
+baseline.txt
+
+# ── Watched / sample folder contents ─────────────────────
+watched_files/*
+fim_files/*
+ValidFiles/*
+TamperedFiles/*
+!watched_files/.gitkeep
+!fim_files/.gitkeep
+
+# ── Portable Python bundled interpreter ───────────────────
+python/
+
+# ── Output files ──────────────────────────────────────────
+*.pptx
+~$*.pptx
+*.zip
+*.log
+
+# ── OS files ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──────────────────────────────────────────────────
+.vscode/
+.idea/
